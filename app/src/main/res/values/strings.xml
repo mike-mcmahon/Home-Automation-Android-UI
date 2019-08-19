@@ -1,0 +1,65 @@
+<resources>
+
+    <!-- Sorted by view -->
+    <!-- Application Level -->
+    <string name="app_name">1 Cypress Home Automation</string>
+
+    <!-- Garage -->
+    <string name="garage_controls">Garage</string>
+    <string name="garage_door">Garage Door</string>
+
+    <!-- HomeControls -->
+    <string name="home_controls">Home Controls</string>
+    <string name="navigate_lighting_controls">Lighting Controls</string>
+    <string name="navigate_garage_controls">Garage Controls</string>
+    <string name="navigate_system_status">System Data</string>
+
+    <!-- Lighting -->
+    <string name="lighting_controls">Lighting</string>
+    <string name="zone1">Front Foyer Lights</string>
+    <string name="zone2">Front Door</string>
+
+    <!-- MainMenu -->
+    <string name="main_menu">Main Menu</string>
+    <string name="navigate_home_controls">Home Controls</string>
+    <string name="navigate_settings">Settings</string>
+
+    <!-- Settings -->
+    <string name="app_settings">User Credentials</string>
+    <string name="user_name_hint">email address</string>
+    <string name="password_hint">password</string>
+    <string name="set_credentials">Set Credentials</string>
+    <string name="error_format_invalid">Format is invalid</string>
+    <string name="error_too_short">Too short</string>
+    <string name="label_email">Email:</string>
+    <string name="label_password">Password:</string>
+    <string name="action_set_credentials">Set Credentials</string>
+    <string name="label_username_hint">enter email</string>
+    <string name="label_password_hint">enter password</string>
+
+    <!-- SystemStatus -->
+    <string name="panel_temperature">Panel Temperature</string>
+    <string name="temperature">degrees C</string>
+    <string name="armed">System Status</string>
+    <string name="system_status">ADT System Status</string>
+
+    <!-- Geofencing -->
+    <!-- Error strings -->
+    <string name="geofence_not_available">Geofence service is not available now</string>
+    <string name="geofence_too_many_geofences">Your app has registered too many geofences</string>
+    <string name="geofence_too_many_pending_intents">You have provided too many PendingIntents to the addGeofences() call</string>
+    <string name="unknown_geofence_error">Unknown error: the Geofence service is not available now</string>
+    <string name="geofence_transition_invalid_type">Geofence transition error: invalid transition type %1$d</string>
+
+    <!-- Transition type strings -->
+    <!--<string name="geofence_transition_entered">Entered</string>
+    <string name="geofence_transition_exited">Exited</string>
+    <string name="unknown_geofence_transition">Unknown Transition</string> -->
+    <string name="insufficient_permissions">Insufficient permissions.</string>
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core functionality.</string>
+    <string name="settings">Settings</string>
+    <!-- <string name="geofence_added">Geofence Added</string>
+    <string name="geofence_removed">Geofence Removed</string> -->
+
+</resources>
